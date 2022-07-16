@@ -1,0 +1,41 @@
+{
+  "navigation": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Sobre",
+      "path": "/sobre"
+    },
+    {
+      "label": "Projetos",
+      "path": "/projetos"
+    },
+    {
+      "label": "Experiência",
+      "path": "/experiencia"
+    },
+    {
+      "label": "Contato",
+      "path": "/contato"
+    }
+  ],
+  "projetos": [
+    {
+      "name": "Zoo Bot",
+      "link": "https://www.depoisadicionar.com"
+    },
+    {
+      "name": "---",
+      "link": "https://www.---.com"
+    }
+  ],
+  "experiencia": [
+    {
+      "company" : "Acme Corp",
+      "title": "Front End",
+      "about": "Make sites"
+    }
+  ]
+}
